@@ -1,0 +1,20 @@
+{
+"basics":{
+    "name":"prabhas",
+    "roll":"540",
+    "mobile":"7207251234",
+    "email":"chinnamabhiram@gmail.com",
+
+    "educatation": [
+        {
+            "degree":"ssc","percantage":96
+            },
+            {"degree":"inter"
+                ,"percantage":96
+                },
+                {"degree":"btech",
+                    "percantage":96
+                }
+    ]
+}
+}
